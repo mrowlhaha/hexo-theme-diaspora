@@ -1,4 +1,4 @@
-# 头部菜单，title: link
+﻿# 头部菜单，title: link
 menu:
   Whoami: /whoami
   Github: https://github.com/Fechin
@@ -42,6 +42,8 @@ gitalk:
     id: location.pathname
     # Facebook-like distraction free mode
     distractionFreeMode: false
+
+theme:diaspora
 
 # 网站关键字
 keywords: Fechin
