@@ -43,7 +43,6 @@ gitalk:
     # Facebook-like distraction free mode
     distractionFreeMode: false
 
-theme:diaspora
 
 # 网站关键字
 keywords: Fechin
